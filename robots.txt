@@ -3,6 +3,6 @@
 User-agent: *
 Disallow:
 
-Sitemap: http://sonash.local/sitemap_index.xml
+Sitemap: https://milroyg.github.io/sonash-static/sitemap_index.xml
 # ---------------------------
 # END YOAST BLOCK
