@@ -3,6 +3,6 @@
 User-agent: *
 Disallow:
 
-Sitemap: /sitemap_index.xml
+Sitemap: http://sonash.local/sitemap_index.xml
 # ---------------------------
 # END YOAST BLOCK
